@@ -1,5 +1,5 @@
 {
-  "name": "LMXaire/hello-composer",
+  "name": "lmxaire/hello-composer",
   "description": "My first packagist package",
   "type": "package",
   "require": {
